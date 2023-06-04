@@ -8,7 +8,7 @@
     	|--Library
     		|--mpu9250.c
     		|--mpu9250.h
-		|--Example
+	|--Example
     		|--#include "mpu9250_config.c"
     		|--#include "mpu9250_config.h"
 ```
